@@ -1,0 +1,25 @@
+.box-loader {
+    position: absolute;
+    padding: 50px 0;
+    background-color: #ffffff;
+    z-index: 10;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hidden-user {
+    position: absolute;
+    padding: 50px 0;
+    background-color: #ffffff;
+    z-index: 10;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.list-error li {
+    text-align: left;
+}
